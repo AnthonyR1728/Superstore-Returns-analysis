@@ -110,7 +110,7 @@ Steps:
   - A 3 to 5-minute presentation is prepared, either as a screen recording or a PDF of the Tableau Story. This presentation explains the analysis, demonstrates the dashboard, and suggests next steps for the CEO to reduce return rates.
 
 
-Superstore Returns Dashboard (Tableau Public link) : 
+Superstore Returns Dashboard (Tableau Public link) : (https://public.tableau.com/views/Poject5_17080187134880/FinalStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Project Files

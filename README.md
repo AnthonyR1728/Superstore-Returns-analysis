@@ -94,6 +94,13 @@ Steps:
     - Proposed actions based on the insights.
 
 2. Story Points:
+![Summary(1)](https://github.com/user-attachments/assets/1af67a05-7a8d-42fe-bf85-0bdef84c5887)
+![Customer Returns(2)](https://github.com/user-attachments/assets/76203d9f-c0f5-4adc-8ccb-4cb0278f4a77)
+![When Returns Happen(3)](https://github.com/user-attachments/assets/f92bdc05-6f97-4aee-ad94-da823dc416e3)
+![What is Returned(4)](https://github.com/user-attachments/assets/c9331f93-fc46-4aa5-9f4f-47494b16ea9a)
+![Where are returns(5)](https://github.com/user-attachments/assets/e2ec3b94-6418-4133-8f58-4ce5c3071ce6)
+![Demonstration(6)](https://github.com/user-attachments/assets/7093873d-6607-4dce-966a-921adb307d4c)
+![Final Thoughts and Implementation(7)](https://github.com/user-attachments/assets/8965fdc8-deb7-432d-94a6-e54a929daf8a)
 
   - Worksheets from the analysis are used to create story points in Tableau. New worksheets may be created to support the story arc. These are then compiled into a presentation format using Tableau’s dashboard story feature.
 

@@ -27,22 +27,27 @@ This project focuses on analyzing the root causes of high return rates at Supers
   - Total Sales vs. Total Returns: This scatter plot helps us investigate if high sales correlate with high return rates. We aggregate by product subcategory to see if increased sales consistently lead to more returns.
 
   2. Bar Chart:
+![Return Rate By Category](https://github.com/user-attachments/assets/5b70be2a-e257-47f3-bd3e-ff65d16c730c)
 
   - Return Rate by Product Category: This chart visualizes which product categories have the highest return rates.
 
   3. Return Rate by Customer:
+![Return Rate by Customer](https://github.com/user-attachments/assets/6105e771-99d6-418c-875a-823c28e427ed)
 
   - This chart identifies customers who frequently return items. A filter is applied to remove customers with only one order to focus on repeat returners.
 
   4. Map Visualization:
+![Return Rate by State](https://github.com/user-attachments/assets/e8acaf56-17ef-4365-9bc9-c1859c276169)
 
   - Return Rate by Geography: This map helps analyze geographic concentrations of returns by state or city.
 
   5. Return Rate by Time:
+![Return Rate By Month](https://github.com/user-attachments/assets/7ec21b37-19b5-4ab7-a01d-f102d4d1355e)
 
   - This visualization looks at the return rate by month or week to determine if there is a seasonal effect.
 
   6. Composite Charts:
+![Monthly Sales VS Return Rate](https://github.com/user-attachments/assets/128a05b9-cb2e-487e-9d49-5d6fa942e983)
 
   - Two composite charts were created, showing return rates across multiple factors such as date, geography, and product category, providing a deeper insight into patterns and trends.
 

@@ -27,7 +27,7 @@ This project focuses on analyzing the root causes of high return rates at Supers
   - Total Sales vs. Total Returns: This scatter plot helps us investigate if high sales correlate with high return rates. We aggregate by product subcategory to see if increased sales consistently lead to more returns.
 
   2. Bar Chart:
-![Return Rate By Category](https://github.com/user-attachments/assets/5b70be2a-e257-47f3-bd3e-ff65d16c730c)
+![Return rate category](https://github.com/user-attachments/assets/d90b56a5-7f80-4081-ba1f-7dc71031f765)
 
   - Return Rate by Product Category: This chart visualizes which product categories have the highest return rates.
 

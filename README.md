@@ -105,6 +105,7 @@ Steps:
   - Worksheets from the analysis are used to create story points in Tableau. New worksheets may be created to support the story arc. These are then compiled into a presentation format using Tableau’s dashboard story feature.
 
 3. Presentation:
+(https://www.youtube.com/watch?v=9UyUPKcTLnE)
 
   - A 3 to 5-minute presentation is prepared, either as a screen recording or a PDF of the Tableau Story. This presentation explains the analysis, demonstrates the dashboard, and suggests next steps for the CEO to reduce return rates.
 

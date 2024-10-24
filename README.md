@@ -84,7 +84,8 @@ Finalized Dashboard:
 Steps:
 
 1. Draft Story:
- 
+ ![Caption Dashboard](https://github.com/user-attachments/assets/164330e0-1d2b-4b73-a8c0-34d3e96d89a4)
+
   - A caption-only draft of the story is created, summarizing the analysis and key insights. It covers:
     - How returns are measured (return rate vs. total cost vs. total number of returns).
     - The key root causes of returns.

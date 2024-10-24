@@ -22,6 +22,7 @@ This project focuses on analyzing the root causes of high return rates at Supers
  Visualizations Created:
 
   1. Scatter Plot:
+![Total Sales VS Total Returns](https://github.com/user-attachments/assets/825d0237-38ae-44b1-a39c-f9ce89ed29b0)
 
   - Total Sales vs. Total Returns: This scatter plot helps us investigate if high sales correlate with high return rates. We aggregate by product subcategory to see if increased sales consistently lead to more returns.
 

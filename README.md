@@ -58,14 +58,21 @@ This project focuses on analyzing the root causes of high return rates at Supers
 ## Steps:
 
 Low-Fidelity Mockups:
+![Containers 1](https://github.com/user-attachments/assets/e4575246-b081-4b74-8400-d249e2369384)
+![Containers 2](https://github.com/user-attachments/assets/45956711-4c0d-4a96-a62e-905a043480d9)
+![containers 3](https://github.com/user-attachments/assets/29eef8d6-2d55-45ab-8280-690460b56f65)
+
 
   - Created three pen-and-paper sketches of potential dashboard layouts. These mockups help conceptualize the design of the final Tableau dashboard.
 
 Dashboard Template:
+![Containters Blank](https://github.com/user-attachments/assets/675917b9-b622-460e-9b60-8ee2bd86aab2)
+
 
   - A template was created using empty containers to match the mockup’s layout. A screenshot of this template is included.
 
 Finalized Dashboard:
+![Finalized dashboard](https://github.com/user-attachments/assets/68fd2cd1-92f3-4867-af09-af6ec02113d9)
 
 - The final dashboard includes all relevant worksheets, along with markers, images, and titles to ensure clarity. It highlights return rates by product, customer, and geography, allowing for an intuitive exploration of the data.
 
